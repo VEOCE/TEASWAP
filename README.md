@@ -1,4 +1,4 @@
-# TeaSwap TESTNET 
+# TeaSwap TestNet
 
 **git clone script**
 ```
