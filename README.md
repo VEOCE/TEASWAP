@@ -32,4 +32,4 @@ screen -r teaswap
 ```
 
 
-# support by MyBrain & Chat GPT AI
+# support by MyBrain & ChatGPT
